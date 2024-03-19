@@ -3,4 +3,4 @@
 
 This is my tester for the read me file
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jamel144&theme=dark&show_icons=true)
+![Jam GitHub stats](https://github-readme-stats.vercel.app/api?username=Jamel144&theme=dark&show_icons=true)
